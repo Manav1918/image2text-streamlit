@@ -97,7 +97,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## ▶️Tutorial video:
-![See here](https://youtu.be/-dcyPlwe8uI)
+!(https://youtu.be/-dcyPlwe8uI)
 
 ## 📢 Connect
 
