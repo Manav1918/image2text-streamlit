@@ -17,10 +17,10 @@ Run the app locally and access it on any device (mobile or desktop) on the same 
 
 ---
 
-## 🚀 Demo
+## 🚀 Screenshot
 
-![App Demo Screenshot](![image](https://github.com/user-attachments/assets/8a32d1ed-cfa1-4f81-9266-731d42ebec30)
-)
+![image](https://github.com/user-attachments/assets/8a32d1ed-cfa1-4f81-9266-731d42ebec30)
+
 
 > Access the app in your mobile browser by visiting your computer's IP and port (e.g., `http://192.168.0.105:8501`)
 
